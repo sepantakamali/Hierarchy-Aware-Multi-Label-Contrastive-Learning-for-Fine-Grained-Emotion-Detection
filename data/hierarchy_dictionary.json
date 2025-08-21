@@ -1,0 +1,170 @@
+{
+  "admiration": [
+    "emotion",
+    "positive",
+    "joy",
+    "admiration"
+  ],
+  "amusement": [
+    "emotion",
+    "positive",
+    "joy",
+    "amusement"
+  ],
+  "approval": [
+    "emotion",
+    "positive",
+    "joy",
+    "approval"
+  ],
+  "caring": [
+    "emotion",
+    "positive",
+    "joy",
+    "caring"
+  ],
+  "desire": [
+    "emotion",
+    "positive",
+    "joy",
+    "desire"
+  ],
+  "excitement": [
+    "emotion",
+    "positive",
+    "joy",
+    "excitement"
+  ],
+  "gratitude": [
+    "emotion",
+    "positive",
+    "joy",
+    "gratitude"
+  ],
+  "joy": [
+    "emotion",
+    "positive",
+    "joy",
+    "joy"
+  ],
+  "love": [
+    "emotion",
+    "positive",
+    "joy",
+    "love"
+  ],
+  "optimism": [
+    "emotion",
+    "positive",
+    "joy",
+    "optimism"
+  ],
+  "pride": [
+    "emotion",
+    "positive",
+    "joy",
+    "pride"
+  ],
+  "relief": [
+    "emotion",
+    "positive",
+    "joy",
+    "relief"
+  ],
+  "anger": [
+    "emotion",
+    "negative",
+    "anger",
+    "anger"
+  ],
+  "annoyance": [
+    "emotion",
+    "negative",
+    "anger",
+    "annoyance"
+  ],
+  "disapproval": [
+    "emotion",
+    "negative",
+    "anger",
+    "disapproval"
+  ],
+  "disgust": [
+    "emotion",
+    "negative",
+    "disgust",
+    "disgust"
+  ],
+  "fear": [
+    "emotion",
+    "negative",
+    "fear",
+    "fear"
+  ],
+  "nervousness": [
+    "emotion",
+    "negative",
+    "fear",
+    "nervousness"
+  ],
+  "sadness": [
+    "emotion",
+    "negative",
+    "sadness",
+    "sadness"
+  ],
+  "disappointment": [
+    "emotion",
+    "negative",
+    "sadness",
+    "disappointment"
+  ],
+  "embarrassment": [
+    "emotion",
+    "negative",
+    "sadness",
+    "embarrassment"
+  ],
+  "grief": [
+    "emotion",
+    "negative",
+    "sadness",
+    "grief"
+  ],
+  "remorse": [
+    "emotion",
+    "negative",
+    "sadness",
+    "remorse"
+  ],
+  "confusion": [
+    "emotion",
+    "ambiguous",
+    "surprise",
+    "confusion"
+  ],
+  "curiosity": [
+    "emotion",
+    "ambiguous",
+    "surprise",
+    "curiosity"
+  ],
+  "realization": [
+    "emotion",
+    "ambiguous",
+    "surprise",
+    "realization"
+  ],
+  "surprise": [
+    "emotion",
+    "ambiguous",
+    "surprise",
+    "surprise"
+  ],
+  "neutral": [
+    "non-emotion",
+    "neutral",
+    "neutral",
+    "neutral"
+  ]
+}
